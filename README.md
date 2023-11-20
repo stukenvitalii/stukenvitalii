@@ -1,8 +1,8 @@
 <div align = "center">
   <img width = 550 src = "https://github-readme-stats.vercel.app/api?username=stukenvitalii&show_icons=true&theme=tokyonight"/>
   <p></p>
-  <img width = 550 src="https://wakatime.com/share/@018ba116-a548-4e9a-88d8-eaf2e6cc03e6/c99c7920-6b81-40fb-8bda-57e30b98c6b3.svg"/>
-  <p></p>
+<!--   <img width = 550 src="https://wakatime.com/share/@018ba116-a548-4e9a-88d8-eaf2e6cc03e6/c99c7920-6b81-40fb-8bda-57e30b98c6b3.svg"/>
+  <p></p> -->
   <img src = "https://wakatime.com/badge/user/018ba116-a548-4e9a-88d8-eaf2e6cc03e6/project/018ba119-4770-43b6-95ad-653b520d691d.svg"/>
 </div>
 
