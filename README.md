@@ -1,5 +1,5 @@
 <div align = "left">
-  <p>Total activity:</p>
+  <h1>Total activity:</h1>
   <a href="https://wakatime.com/@018ba116-a548-4e9a-88d8-eaf2e6cc03e6"><img src="https://wakatime.com/badge/user/018ba116-a548-4e9a-88d8-eaf2e6cc03e6.svg" alt="Total time coded since Nov 5 2023" /></a>
 </div>
 
@@ -10,8 +10,8 @@
 <!--   <img width = 550 src="https://wakatime.com/share/@018ba116-a548-4e9a-88d8-eaf2e6cc03e6/c99c7920-6b81-40fb-8bda-57e30b98c6b3.svg"/>
   <p></p> -->
 <!--   <img src = "https://wakatime.com/badge/user/018ba116-a548-4e9a-88d8-eaf2e6cc03e6/project/018ba119-4770-43b6-95ad-653b520d691d.svg"/> -->
-  <!--START_SECTION:waka-->
-<h>Languages activity: </h>
+<h1>Languages activity: </h1>
+<!--START_SECTION:waka-->
 ```
 Java             10 hrs 10 mins  █████████████████▓░░░░░░░   71.33 %
 C++              2 hrs 41 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
@@ -19,9 +19,7 @@ XML              56 mins         █▓░░░░░░░░░░░░░�
 YAML             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 HTTP Request     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
-
 <!--END_SECTION:waka-->
-
 </div>
 
 <!--
