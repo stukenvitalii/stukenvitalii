@@ -1,4 +1,9 @@
-<div align = "center">
+<div align = "left">
+  <p>Total activity:</p>
+  <a href="https://wakatime.com/@018ba116-a548-4e9a-88d8-eaf2e6cc03e6"><img src="https://wakatime.com/badge/user/018ba116-a548-4e9a-88d8-eaf2e6cc03e6.svg" alt="Total time coded since Nov 5 2023" /></a>
+</div>
+
+<div align = "left">
   <img width = 550 src = "https://github-readme-stats.vercel.app/api?username=stukenvitalii&show_icons=true&theme=tokyonight"/>
   <p></p>
   
@@ -6,8 +11,8 @@
   <p></p> -->
 <!--   <img src = "https://wakatime.com/badge/user/018ba116-a548-4e9a-88d8-eaf2e6cc03e6/project/018ba119-4770-43b6-95ad-653b520d691d.svg"/> -->
   <!--START_SECTION:waka-->
-
-```txt
+<h>Languages activity: </h>
+```
 Java             10 hrs 10 mins  █████████████████▓░░░░░░░   71.33 %
 C++              2 hrs 41 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
 XML              56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
@@ -16,7 +21,7 @@ HTTP Request     3 mins          ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<a href="https://wakatime.com/@018ba116-a548-4e9a-88d8-eaf2e6cc03e6"><img src="https://wakatime.com/badge/user/018ba116-a548-4e9a-88d8-eaf2e6cc03e6.svg" alt="Total time coded since Nov 5 2023" /></a>
+
 </div>
 
 <!--
