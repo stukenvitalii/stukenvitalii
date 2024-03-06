@@ -3,9 +3,9 @@
   <a href="https://wakatime.com/@018ba116-a548-4e9a-88d8-eaf2e6cc03e6"><img src="https://wakatime.com/badge/user/018ba116-a548-4e9a-88d8-eaf2e6cc03e6.svg" alt="Total time coded since Nov 5 2023" /></a>
 </div>
 <div align = "left">
-  <img width = "80%" src = "https://github-readme-stats.vercel.app/api?username=stukenvitalii&show_icons=true&theme=synthwave"/>
+  <img width = "100%" src = "https://github-readme-stats.vercel.app/api?username=stukenvitalii&show_icons=true&theme=synthwave"/>
 
- <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=stukenvitalii&theme=synthwave" alt="My GitHub Time Stats" />
+ <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=stukenvitalii&theme=synthwave" alt="My GitHub Time Stats" />
 </div>
 
 <!--
