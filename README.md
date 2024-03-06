@@ -5,7 +5,7 @@
 <div align = "left">
   <img width = "80%" src = "https://github-readme-stats.vercel.app/api?username=stukenvitalii&show_icons=true&theme=tokyonight"/>
 
- <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=stukenvitalii&theme=tokyonight&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" />
+ <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=stukenvitalii&theme=tokyonight&text_color=09d672&icon_color=00C2C2" alt="My GitHub Time Stats" />
 </div>
 
 <!--
