@@ -67,44 +67,89 @@ const currentlyLearning = {
 console.log("Growth mindset: Always learning! 🚀");
 ```
 
+<div align="center">
+
+### 🎯 2024 Learning Roadmap
+
+```mermaid
+graph LR
+    A[🚀 Current] --> B[☁️ Cloud Native]
+    A --> C[🔄 DevOps]
+    A --> D[🧠 AI/ML]
+    B --> E[📊 Production Ready]
+    C --> E
+    D --> E
+```
+
+</div>
+
 ## 🌟 Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h4>🔥 Project Alpha</h4>
-      <p>Scalable microservices architecture with Kafka</p>
-      <sub>Java • Kafka • Docker</sub>
-    </td>
-    <td align="center" width="33%">
-      <h4>⚡ Data Pipeline</h4>
-      <p>Real-time data processing and analytics</p>
-      <sub>Python • Elasticsearch • Grafana</sub>
-    </td>
-    <td align="center" width="33%">
-      <h4>🛡️ Auth Service</h4>
-      <p>JWT-based authentication microservice</p>
-      <sub>Kotlin • JWT • PostgreSQL</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-## ⌛ Coding Activity
+| 🔥 **Project Alpha** | ⚡ **Data Pipeline** | 🛡️ **Auth Service** |
+|:---:|:---:|:---:|
+| Scalable microservices<br>architecture with Kafka | Real-time data processing<br>and analytics | JWT-based authentication<br>microservice |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-000?style=flat-square&logo=apachekafka) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0377CC?style=flat-square&logo=elasticsearch&logoColor=white) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| 🚀 **[View Demo](#)** | 📊 **[Live Stats](#)** | 🔐 **[API Docs](#)** |
+
+</div>
+
+## ⌛ Coding Activity & Stats
+
+<div align="center">
 
 <img src="https://wakatime.com/badge/user/018ba116-a548-4e9a-88d8-eaf2e6cc03e6.svg" alt="Total time coded since Nov 5 2023" />
 
+<br><br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stukenvitalii&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
+
+</div>
+
 <details>
-<summary>📊 GitHub Analytics</summary>
+<summary>📊 GitHub Analytics Dashboard</summary>
+
+<div align="center">
+
+### 📈 Performance Metrics
 
 ![](https://github-readme-stats.vercel.app/api?username=stukenvitalii&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+### 🔥 Contribution Streak
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stukenvitalii&theme=synthwave&hide_border=false)<br/>
+
+### 🗣️ Most Used Languages
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stukenvitalii&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ⏰ Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
 
 </details>
 
 ## 🏆 Achievement Showcase
 
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=stukenvitalii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<br>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stukenvitalii/stukenvitalii/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stukenvitalii/stukenvitalii/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/stukenvitalii/stukenvitalii/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ## 🎭 Beyond Code
 
@@ -115,6 +160,14 @@ When I'm not crafting code, you'll find me:
 - 🏃‍♂️ Running and staying active
 - 🎵 Listening to electronic music while coding
 - 🌱 Learning new programming languages
+
+<div align="center">
+
+### 💡 Random Dev Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+</div>
 
 ## 🤝 Let's Connect!
 
