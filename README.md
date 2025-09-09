@@ -1,21 +1,136 @@
+<div align="center">
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 🚀 Vitalii Stuken | Software Alchemist 🧙‍♂️
 
-# ⌛ Total activity:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Problem+Solver;Java+%7C+Kotlin+%7C+Python+Enthusiast;Always+learning%2C+always+growing+%F0%9F%8C%B1;Crafting+elegant+solutions+%E2%9C%A8" alt="Typing SVG" />
 
-<img src="https://wakatime.com/badge/user/018ba116-a548-4e9a-88d8-eaf2e6cc03e6.svg" alt="Total time coded since Nov 5 2023" /></a>
+### 💫 Passionate about turning ☕ into code and ideas into reality
 
+---
 
-# 📊 GitHub Stats:
+</div>
+
+## 🎯 About Me
+
+```yaml
+name: Vitalii Stuken
+location: "Somewhere in the digital realm 🌐"
+current_focus: "Building scalable backend systems"
+philosophy: "Code is poetry written in logic"
+superpower: "Debugging at 3 AM with a smile 😄"
+weakness: "Can't resist refactoring legacy code"
+```
+
+## 🚀 What I'm up to
+
+🔭 **Currently Working On:** Building microservices that scale like magic  
+🌱 **Learning:** Advanced Kafka patterns and cloud-native architectures  
+🎯 **Goal for 2024:** Contribute to 10 open-source projects  
+⚡ **Fun Fact:** I debug faster with rubber duck debugging 🦆  
+
+## 💻 Tech Arsenal
+
+### **Languages & Frameworks**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### **Backend & Infrastructure**
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+
+### **Databases & Tools**
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+
+### **Monitoring & Security**
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+
+## 🎨 Current Learning Journey
+
+```javascript
+const currentlyLearning = {
+    cloudArchitecture: ["AWS", "Kubernetes", "Microservices"],
+    distributedSystems: ["Apache Kafka", "Event Sourcing", "CQRS"],
+    devOps: ["CI/CD", "Infrastructure as Code", "Monitoring"],
+    softSkills: ["System Design", "Technical Leadership"]
+};
+
+console.log("Growth mindset: Always learning! 🚀");
+```
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h4>🔥 Project Alpha</h4>
+      <p>Scalable microservices architecture with Kafka</p>
+      <sub>Java • Kafka • Docker</sub>
+    </td>
+    <td align="center" width="33%">
+      <h4>⚡ Data Pipeline</h4>
+      <p>Real-time data processing and analytics</p>
+      <sub>Python • Elasticsearch • Grafana</sub>
+    </td>
+    <td align="center" width="33%">
+      <h4>🛡️ Auth Service</h4>
+      <p>JWT-based authentication microservice</p>
+      <sub>Kotlin • JWT • PostgreSQL</sub>
+    </td>
+  </tr>
+</table>
+
+## ⌛ Coding Activity
+
+<img src="https://wakatime.com/badge/user/018ba116-a548-4e9a-88d8-eaf2e6cc03e6.svg" alt="Total time coded since Nov 5 2023" />
+
+<details>
+<summary>📊 GitHub Analytics</summary>
+
 ![](https://github-readme-stats.vercel.app/api?username=stukenvitalii&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stukenvitalii&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stukenvitalii&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+</details>
+
+## 🏆 Achievement Showcase
+
 ![](https://github-profile-trophy.vercel.app/?username=stukenvitalii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=stukenvitalii&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🎭 Beyond Code
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+When I'm not crafting code, you'll find me:
+
+- 📚 Reading tech blogs and architecture patterns
+- 🎮 Gaming (strategy games are my weakness!)
+- 🏃‍♂️ Running and staying active
+- 🎵 Listening to electronic music while coding
+- 🌱 Learning new programming languages
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+
+---
+
+💭 *"The best way to predict the future is to invent it."* - Alan Kay
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=stukenvitalii&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
+<!-- Creatively crafted with passion by Vitalii Stuken -->
